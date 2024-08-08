@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 56,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Medha Singh",
+    "title": "Nvidia on cusp of overtaking Apple as second-most-valuable company - Yahoo Finance",
+    "description": "Nvidia is nipping at the heels of Apple to become the world's second-most-valuable company, as investors cannot get enough of the semiconductor maker whose...",
+    "url": "https://finance.yahoo.com/news/nvidia-cusp-overtaking-apple-second-160413392.html",
+    "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/4e379d0309330db1136d0c8f8b9775f0",
+    "publishedAt": "2024-03-08T16:29:13Z",
+    "content": "By Medha Singh\r\n(Reuters) - Nvidia is nipping at the heels of Apple to become the world's second-most-valuable company, as investors cannot get enough of the semiconductor maker whose chips power pop… [+2724 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Stock Market Today: Dow Jones Rises On Today's Jobs Report; Nvidia, Super Micro Surge - Investor's Business Daily",
+    "description": null,
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-jobs-report-nvidia-stock-super-micro-stock/",
+    "urlToImage": null,
+    "publishedAt": "2024-03-08T15:30:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Samantha Subin",
+    "title": "What to know about this AI stock with ties to Nvidia up nearly 170% in 2024 - CNBC",
+    "description": "Investors may want to keep an eye on this AI voice stock with ties to Nvidia up almost 170% in 2024.",
+    "url": "https://www.cnbc.com/2024/03/08/this-ai-stock-with-ties-to-nvidia-is-up-nearly-170percent-in-2024.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107267424-16886483572023-07-06t124343z_794020911_rc2cx1ajz6i2_rtrmadp_0_china-tech-ai.jpeg?v=1696263699&w=1920&h=1080",
+    "publishedAt": "2024-03-08T15:00:02Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": null,
+    "title": "Petrobras loses $14 billion in market cap after stiffing dividend hopes - Yahoo Finance",
+    "description": null,
+    "url": "https://finance.yahoo.com/news/petrobras-loses-14-billion-market-145930996.html",
+    "urlToImage": null,
+    "publishedAt": "2024-03-08T14:59:30Z",
+    "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KPRC Click2Houston"
+    },
+    "author": "Moriah Ballard",
+    "title": "Plane slides off runway at Bush Airport; No injuries reported - KPRC Click2Houston",
+    "description": "Officials are working to clear the scene of a plane that reportedly slid off the runway at Bush Airport early Friday morning.",
+    "url": "https://www.click2houston.com/news/local/2024/03/08/plane-goes-off-runway-at-bush-airport-no-injuries-reported/",
+    "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-08-2024/t_d9b5f6d6d61b4b179bad8946baa2f59c_name_image.jpg?_a=ATAPphC0",
+    "publishedAt": "2024-03-08T14:52:42Z",
+    "content": "HOUSTON Officials are working to clear the scene of a plane that reportedly slid off the runway at Bush Airport early Friday morning.\r\nAccording to staff at Bush International Airport, the call for t… [+2074 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Andrew J. Hawkins",
+    "title": "Rivian has already received 68000 reservations for the R2 - The Verge",
+    "description": "Rivian has already taken in 68,000 reservations for its R2 midsize electric SUV, the company’s CEO says. Each reservation is $100 and fully refundable.",
+    "url": "https://www.theverge.com/2024/3/8/24094270/rivian-r2-reservation-number-price-refund",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/fZ1slit9FF4LC2_2vav8GWhC8pA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25323447/02_Rivian_R2.jpg",
+    "publishedAt": "2024-03-08T14:48:13Z",
+    "content": "Rivian has already received 68,000 reservations for the R2\r\nRivian has already received 68,000 reservations for the R2\r\n / Rivian CEO RJ Scaringe says hes thrilled to see this vehicle resonate so str… [+2101 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Tom Warren",
+    "title": "Microsoft says Russian hackers stole source code after spying on its executives - The Verge",
+    "description": "Microsoft says a group behind the SolarWinds attacks has stolen source code from the company. It’s the latest part of a big security incident that started last year.",
+    "url": "https://www.theverge.com/2024/3/8/24094287/microsoft-hack-russian-security-attack-stolen-source-code",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg",
+    "publishedAt": "2024-03-08T14:43:27Z",
+    "content": "Microsoft says Russian hackers stole source code after spying on its executives\r\nMicrosoft says Russian hackers stole source code after spying on its executives\r\n / Microsofts nation-state security i… [+2980 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Josh Schafer",
+    "title": "February jobs report: US economy adds 275,000 jobs, unemployment rate hits 3.9% - Yahoo Finance",
+    "description": "The February jobs report provides an update on the resiliency of the labor market ahead of the Federal Reserve's next policy decision on March 20.",
+    "url": "https://finance.yahoo.com/news/february-jobs-report-us-economy-adds-275000-jobs-unemployment-rate-hits-39-133253114.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lCazJEHq5Pgmkm.9VmvveQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/821d9480-dc38-11ee-befc-ff4d0fcaf29f",
+    "publishedAt": "2024-03-08T14:38:49Z",
+    "content": "The US economy created more new jobs than expected in February, while an increase in the unemployment rate for the first time in four months and downward revisions to job growth in prior months sugge… [+2542 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "KIRSTEN GRIESHABER",
+    "title": "Germany's top prosecutor takes over Tesla fire investigation, suspecting terrorism - Yahoo Finance",
+    "description": "Germany's top prosecutor has taken over the investigation into an alleged arson attack on the power supply of the electric car company Tesla near Berlin.  In...",
+    "url": "https://finance.yahoo.com/news/germanys-top-prosecutor-takes-over-142056235.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DDcfNSGoVN9QH2VzIKwu0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/15c5b3e25341a599bebd37a9b35d952f",
+    "publishedAt": "2024-03-08T14:20:56Z",
+    "content": "BERLIN (AP) Germany's top prosecutor has taken over the investigation into an alleged arson attack on the power supply of the electric car company Tesla near Berlin.\r\nA spokeswoman said there is an i… [+2617 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "USA TODAY",
+    "title": "Rupert Murdoch engaged: 92-old-old to marry Elena Zhukova, reports say - USA TODAY",
+    "description": null,
+    "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/03/08/rupert-murdoch-engaged-92-old-old-to-marry-elena-zhukova-reports-say/72893771007/",
+    "urlToImage": null,
+    "publishedAt": "2024-03-08T14:14:07Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "USA TODAY",
+    "title": "COVID test kits: Free government program through USPS to end today - USA TODAY",
+    "description": null,
+    "url": "https://www.usatoday.com/story/news/health/2024/03/08/covid-test-kits-free-government-program-usps-ends/72893381007/",
+    "urlToImage": null,
+    "publishedAt": "2024-03-08T13:26:03Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Annika Kim Constantino",
+    "title": "Eli Lilly says FDA delays approval of Alzheimer's drug in surprise move - CNBC",
+    "description": "The FDA plans to call a last-minute meeting of its outside advisors to further review the Eli Lilly Alzheimer's treatment's safety and efficacy.",
+    "url": "https://www.cnbc.com/2024/03/08/eli-lilly-alzheimers-drug-fda-approval-delayed.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107235494-1683201790787-gettyimages-1252633286-ELI_LILLY_HQ.jpeg?v=1705685369&w=1920&h=1080",
+    "publishedAt": "2024-03-08T13:15:18Z",
+    "content": "Eli Lilly said Friday that the Food and Drug Administration has pushed back its approval decision deadline for the drugmaker's experimental Alzheimer's treatment donanemab in a surprise move.\r\nThe ag… [+3414 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Breck Dumas",
+    "title": "Biden admin's gig worker rule facing growing pushback - Fox Business",
+    "description": "The Biden administration's new Department of Labor rule re-classifying millions of independent contractors as employees is receiving mounting pushback from the workers it will impact.",
+    "url": "https://www.foxbusiness.com/politics/biden-admins-gig-worker-rule-facing-growing-pushback",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/Biden-Su-Presser.jpg?ve=1&tl=1",
+    "publishedAt": "2024-03-08T12:49:00Z",
+    "content": "The Biden administration is facing mounting pushback over a new Department of Labor rule set to go into effect Monday that would re-classify millions of gig workers as employees.\r\nTrade groups, small… [+5053 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Endpoints News"
+    },
+    "author": "Andrew Dunn, Max Gelman",
+    "title": "Amylyx's ALS treatment Relyvrio fails PhIII study, biotech to consider withdrawing drug - Endpoints News",
+    "description": "Relyvrio, Amylyx's FDA-approved ALS drug, has failed a crucial Phase III trial, the company said on Friday, a major blow to what had been considered one of the few significant options available for the treatment of the deadly neurodegenerative disease. The fa…",
+    "url": "https://endpts.com/amylyxs-als-treatment-relyvrio-fails-phiii-study-biotech-to-consider-withdrawing-drug/",
+    "urlToImage": "https://endpts.com/wp-content/uploads/2022/09/Justin-Klee-Joshua-Cohen-Amylyx-NYT-tile.jpg",
+    "publishedAt": "2024-03-08T12:09:00Z",
+    "content": "Re­lyvrio, Amy­lyx’s FDA-ap­proved ALS drug, has failed a cru­cial Phase III tri­al, the com­pa­ny said on Fri­day, a ma­jor blow to what had been con­sid­ered one of the few sig­nif­i­cant op­tions … [+823 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Jamie Chisholm",
+    "title": "Here’s what 100 years of history shows about periods of extreme market concentration, according to Goldman Sachs - MarketWatch",
+    "description": "Critical information for the U.S. trading day",
+    "url": "https://www.marketwatch.com/story/heres-what-100-years-of-history-shows-about-periods-of-extreme-market-concentration-according-to-goldman-sachs-340ca243",
+    "urlToImage": "https://images.mktw.net/im-65097578/social",
+    "publishedAt": "2024-03-08T11:42:00Z",
+    "content": "A mixed jobs report may not stop the S&amp;P 500 on Friday registering its 17th peak of the year as more investors are infected by AI fever.Naturally, Nvidia stock \r\n NVDA\r\n sits at a fresh record, a… [+6025 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jenni Reid",
+    "title": "HelloFresh shares dive 42% after meal kit giant warns on outlook - CNBC",
+    "description": "Analysts at UBS described HelloFresh's outlook for 2024 as \"far worse\" than anticipated.",
+    "url": "https://www.cnbc.com/2024/03/08/hellofresh-shares-dive-42percent-after-meal-kit-giant-warns-on-outlook.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/105073794-20170712_HelloFresh3983-CounterBoxBagsCards-Veggie.jpg?v=1662975428&w=1920&h=1080",
+    "publishedAt": "2024-03-08T10:43:06Z",
+    "content": "HelloFresh shares plunged 42% on Friday morning in their worst-ever session to date, after the recipe box delivery company disappointed with its 2024 earnings outlook.\r\nAnalysts at UBS said that whil… [+1437 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Elizabeth Pritchett",
+    "title": "Discount grocer ALDI to open 800 new stores across US in multi-year expansion plan - Fox Business",
+    "description": "Low-cost grocer ALDI announced Thursday it will be adding 800 locations across America under a $9 billion expansion plan that will be completed by the end of 2028.",
+    "url": "https://www.foxbusiness.com/retail/discount-grocer-aldi-open-800-new-stores-expansion-plan",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/02/0/0/Aldi-supermarket-.jpg?ve=1&tl=1",
+    "publishedAt": "2024-03-08T10:22:00Z",
+    "content": "Popular discount grocer ALDI will be increasing its already growing presence across America over the next five years, the company announced Thursday.\r\nThe self-described \"low-price leader\" plans to a… [+2767 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Karen Gilchrist",
+    "title": "Novo Nordisk market cap surpasses Tesla on new obesity pill trial data - CNBC",
+    "description": "Wegovy obesity drug maker Novo Nordisk surpassed Tesla in market value Thursday after fresh early trial data showed positive results for its new experimental weight loss pill.",
+    "url": "https://www.cnbc.com/2024/03/08/novo-nordisk-market-cap-surpasses-tesla-on-new-obesity-pill-trial-data.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107235430-1683195564330-gettyimages-633295152-AFP_LB5D1.jpeg?v=1709890873&w=1920&h=1080",
+    "publishedAt": "2024-03-08T09:53:36Z",
+    "content": "The logo of Danish pharmaceutical company is pictured at their headquarters in Bagsvaerd outside of Copenhagen, Denmark on February 1, 2017.\r\nWegovy obesity drug maker Novo Nordisk surpassed Tesla in… [+4179 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Axios",
+    "title": "TSA opening first self-screening airport security system - Axios",
+    "description": null,
+    "url": "https://www.axios.com/2024/03/08/tsa-self-serve-airport-screening-las-vegas",
+    "urlToImage": null,
+    "publishedAt": "2024-03-08T09:41:43Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tipranks.com"
+    },
+    "author": "Amit Singh",
+    "title": "COST Earnings: Costco Stock Drops On Q2 Revenue Miss - TipRanks.com - TipRanks",
+    "description": "Shares of the retail giant Costco Wholesale Corporation (NASDAQ:COST) fell over 4% in Thursday’s after-hours trading. The company, which operates membership warehou...",
+    "url": "https://www.tipranks.com/news/cost-earnings-costco-stock-drops-on-q2-revenue-miss",
+    "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/03/shutterstock_1471200125-750x406.jpg",
+    "publishedAt": "2024-03-08T06:04:34Z",
+    "content": "Shares of the retail giant Costco Wholesale Corporation (NASDAQ:COST) fell over 4% in Thursdays after-hours trading. The company, which operates membership warehouses and e-commerce websites, missed … [+1471 chars]"
+    }
+    ]
+    }

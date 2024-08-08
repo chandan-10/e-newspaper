@@ -1,0 +1,90 @@
+Link{
+  color: black;
+}
+  
+img{
+  height: 220px;
+}
+#NewsBox,
+#main{
+  background-color: white;
+}
+
+
+#readMore {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 15px;
+  /* padding: 15px 30px; */
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: white;
+  background: transparent;
+  cursor: pointer;
+  transition: ease-out 0.5s;
+  border: 2px solid #725AC1;
+  border-radius: 10px;
+  box-shadow: inset 0 0 0 0 #725AC1;
+  background-color: black;
+}
+.btn{
+  position: relative;
+  display: inline-block;
+  margin-bottom: 15px;
+  /* padding: 15px 30px; */
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: white;
+  background: transparent;
+  cursor: pointer;
+  transition: ease-out 0.5s;
+  border: 2px solid #725AC1;
+  border-radius: 10px;
+  box-shadow: inset 0 0 0 0 #725AC1;
+  background-color: black;
+}
+
+#readMore:hover{
+  color: white;
+  box-shadow: inset 0 -100px 0 0 #725AC1;
+}
+
+#readMore:active{
+  transform: scale(0.9);
+}
+.btn:hover{
+  color: white;
+  box-shadow: inset 0 -100px 0 0 #725AC1;
+}
+
+.btn:active{
+  transform: scale(0.9);
+}
+
+.card {
+  height: 550px;
+  width: 350px;
+  background: white;
+  border-radius: 10px;
+  transition: border-radius 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+ }
+ 
+ .shadow {
+  box-shadow: inset 0 -3em 3em rgba(14, 13, 13, 0.1),
+              0 0  0 2px rgb(190, 190, 190),
+              0.3em 0.3em 1em rgba(0,0,0,0.3);
+ }
+ 
+ #weatherBox{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+
+ }
+
+ /* weather css */
+ 
